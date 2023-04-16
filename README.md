@@ -2,7 +2,7 @@
 
 This is a content based movie recommendation system
 
-# Dataset
+## Dataset
 
 The dataset is taken from kaggle This database consist of 5000 movies from imdb. It is available on https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
