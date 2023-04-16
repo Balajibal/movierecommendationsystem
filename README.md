@@ -109,7 +109,5 @@ for movie in sorted_similar_movies:
 ![image](https://user-images.githubusercontent.com/75234946/232275096-7a3a9571-61b4-445c-896b-fdfae6840f35.png)
 
 
-
-
-
+Thus, the movie recommendation system is created successfully
 
